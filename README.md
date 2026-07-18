@@ -91,25 +91,6 @@ http://localhost:3000
 - Scalable project structure
 - Real-world banking workflow simulation
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of your Dashboard, Login Page, Account Page, Transactions, Transfer Money, and Admin Panel here.
-
-Example:
-
-```
-screenshots/
-├── login.png
-├── dashboard.png
-├── account.png
-├── transfer.png
-├── transactions.png
-└── admin.png
-```
-
----
 
 ## 🔮 Future Enhancements
 
