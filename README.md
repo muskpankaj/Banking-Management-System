@@ -2,7 +2,6 @@
 
 A modern **Banking Management System** built using **React.js** that provides users with a seamless and interactive banking experience. The application allows users to manage accounts, transfer funds, view transactions, and monitor account balances through a clean and responsive interface.
 
----
 
 ## 🚀 Features
 
